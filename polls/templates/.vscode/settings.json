@@ -1,0 +1,6 @@
+{
+  "emmet.includeLanguages": { "jinja-html": "html" },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
